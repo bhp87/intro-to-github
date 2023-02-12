@@ -14,3 +14,13 @@ The **Pull requests** tab contains proposals to make some changes in the files l
 You can create an *Issue* or make a *Pull request (PR)* to contribute to the project.
 
 If you want to propose some changes to this repo, you may *fork* it, modify the content, and create *PR*. A *fork* is just a copy that allows you to change the content without affection the original project.
+
+Additionally, the Projects tab is a place where you can organize and prioritize work in your repository. You can create boards to track issues and pull requests and prioritize them based on their importance and deadline.
+
+The Wiki tab is a place where you can store additional information and documentation related to your repository. You can use it to document the project's history, design decisions, user guides, and so on.
+
+The Pulse tab is a summary of recent activity in your repository, including pushes, pull requests, issues, and comments. This is a great place to get a quick overview of what's happening in your repo.
+
+GitHub also offers features such as code reviews, collaboration tools, and project management features that make it a great platform for open-source projects as well as private projects. With GitHub, you can work on projects with others from anywhere in the world, and track progress and changes in real-time.
+
+In conclusion, GitHub is a powerful platform that offers a range of features to support software development and collaboration. Whether you're working on a solo project or collaborating with others, GitHub can help you keep track of your code and streamline your development process.
